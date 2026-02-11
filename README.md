@@ -1,34 +1,34 @@
 <h1 align="center">Hi there 👋, I'm Fateh Virk</h1>
-<h3 align="center">Full Stack AI Engineer | Next.js · Nest.js · Python · LLMs</h3>
+<h3 align="center">Full Stack AI Engineer | Next.js · Nest.js · .NET · Python</h3>
 
 <p align="center">
-Passionate about building modern web applications and exploring the potential of AI integration.
+Building modern web applications with a focus on AI-driven features and scalable backends.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💼 **Full Stack AI Engineer** focused on building robust web solutions.
-- 🧠 Actively working with **RAG architectures and LLM implementation**.
-- ⚙️ Proficient in **TypeScript, Nest.js, and Python-based backends**.
-- 🏗️ Experience in developing **SaaS modules and scalable UI/UX**.
-- 🌱 Committed to **continuous learning, clean code, and efficient problem-solving**.
+- 💼 **Full Stack AI Engineer** specializing in web development and AI integration.
+- 🧠 Focused on implementing **RAG architectures and LLM workflows**.
+- ⚙️ Skilled in **TypeScript (Next.js/Nest.js), .NET, and Python**.
+- 🏗️ Experience in building **SaaS modules and data-driven dashboards**.
+- 🌱 Dedicated to **clean architecture, performance, and continuous growth**.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🖥️ Full Stack Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+### 🖥️ Backend & Full Stack
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
 
 ### 💡 AI & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat)
-![Vector DBs](https://img.shields.io/badge/VectorDB-Pinecone%20%7C%20Chroma-blue)
 ![LLMs](https://img.shields.io/badge/LLMs-GPT%20%7C%20Claude-orange)
+![Vector DBs](https://img.shields.io/badge/VectorDB-Pinecone%20%7C%20Chroma-blue)
 
 ### ☁️ Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
@@ -40,19 +40,22 @@ Passionate about building modern web applications and exploring the potential of
 ## 🏗️ Key Projects
 
 ### 🏢 HR & Employee Management System
-- Developed features for **attendance, payroll, and role-based access control**.
-- Built using **Nest.js** for the backend and **Next.js** for a responsive dashboard.
-- Integrated **PostgreSQL** for secure and structured data management.
+- Developed core modules for **attendance and role-based access control**.
+- Utilized **Nest.js** for service architecture and **Next.js** for the admin interface.
+- Integrated **PostgreSQL** for reliable data persistence and management.
 
 ### 📦 Smart Inventory System
-- Managed real-time data flow for inventory tracking and sales.
-- Implemented **Prisma ORM** for efficient database queries.
-- Optimized frontend performance for a seamless user experience.
+- Managed real-time inventory tracking and automated sales reporting.
+- Implemented **Prisma ORM** and optimized API endpoints for speed.
+- Designed a clean, user-centric frontend using **Tailwind CSS**.
 
 ---
 
 ## 📫 Connect With Me
 <p align="left">
+<a href="https://www.linkedin.com/in/fatehvirk" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
 <a href="mailto:fatehvirkusa@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
