@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Fateh Virk 👋</h1>
+<h1 align="center">Hi there! I'm Fateh Virk </h1>
 <h3 align="center">Full Stack AI Engineer | .NET Core • Next.js • Python</h3>
 
 <p align="center">
